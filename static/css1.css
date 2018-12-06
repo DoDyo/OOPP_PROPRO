@@ -1,0 +1,13 @@
+#hi{color:red;
+}
+
+#bye{text-align:left;}
+
+form {
+    margin: 200px;
+    border: 2px solid black;
+    width: 40%;
+    height: 200px;
+}
+
+body{background-color:blueviolet;}
